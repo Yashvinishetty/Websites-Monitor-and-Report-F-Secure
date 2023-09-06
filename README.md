@@ -44,7 +44,7 @@ Remember to mention the path of the config file or place it in the same folder a
 Viewing Results:
 The program will periodically check the websites and log the results to a file named website_checker.log.
 
-D. Logging
+D. **Logging**
 
 The tool will generate a log file (monitor.log) in the project directory. This log file contains information about checked URLs, their status, and response times.
 
