@@ -25,7 +25,7 @@ A. **Installation**
 -  Navigate to the project directory:
 
 B. **Configuration**:
- -  Create a configuration file (config.json) with a list of websites to monitor and their content requirements.-->Configuration File (config.json)
+ -  Create a configuration file (config.csv) with a list of websites to monitor and their content requirements.-->Configuration File (config.json)
 -  The config.json file contains a list of websites to monitor, their content requirements, and other settings:
 
   -   Here the websites of the sites to be monitored "websites":
