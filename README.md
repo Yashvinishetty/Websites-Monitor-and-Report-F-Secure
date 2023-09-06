@@ -18,7 +18,7 @@ Here is a program designed to monitor web sites and report their availability. T
 
 
 -  Ensure you have Python 3.x installed on your system.
--  Required Python packages (e.g., requests, configparser, time, logging, http.server, etc.)
+-  Required Python packages (e.g., requests, time, logging, pandas)
 
 A. **Installation**
 -  Clone this repository to your local machine:
@@ -46,5 +46,5 @@ The program will periodically check the websites and log the results to a file n
 
 D. **Logging**
 
-The tool will generate a log file (monitor.log) in the project directory. This log file contains information about checked URLs, their status, and response times.
+The tool will generate a log file (monitoring.log) in the project directory. This log file contains information about checked URLs, their status, and response times.
 
